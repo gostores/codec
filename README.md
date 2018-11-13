@@ -5,7 +5,7 @@ binc, msgpack, cbor, json.
 
 To install:
 
-    go get github.com/gostores/codec
+    go get github.com/govenue/codec
 
 This package will carefully use 'unsafe' for performance reasons in specific places.
 You can build without unsafe use by passing the safe or appengine tag
